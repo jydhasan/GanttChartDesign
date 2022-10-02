@@ -18,5 +18,5 @@ To deploy this project run
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/jydhasan/GanttChartDesign/blob/main/EXCEL_wUU9jW6sP4.png
 
